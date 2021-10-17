@@ -14,7 +14,8 @@
   <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> 
     <img align="right" alt="Jean-pic" height="150" src="https://i.pinimg.com/564x/9a/63/da/9a63da2bf5d39e45497a0df7b671c1d0.jpg?width=676&height=676">
- 
+  
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
   
   
