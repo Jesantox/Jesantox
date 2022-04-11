@@ -1,6 +1,6 @@
 <div align="center" size="50"> 
   
- # Olá, sou o Jean Santos 🚀
+ # Prazer, me chamo Jean Santos 🚀
 </div>
 
 <br>
